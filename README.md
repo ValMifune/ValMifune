@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Val
+- 👋 Hi, I’m Val, most people just call me V
 - 👀 I’m studying Cybersecurity as a career shift from another IT career
 - 🌱 I’m currently certifying in Net+ Sec+ and others soon
 - 💞️ I’m utilizing GH for learning
